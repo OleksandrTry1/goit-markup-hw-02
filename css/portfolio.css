@@ -1,14 +1,14 @@
 .product-name {
     font-weight: 500;
-    size: 20px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .product-paragraph {
     color: #434455;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }

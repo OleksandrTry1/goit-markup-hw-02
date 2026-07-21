@@ -1,8 +1,12 @@
+.team-member-info {
+    background-color: #f4f4fd;
+}
+
 .team-member-name {
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     text-align: center;
 }
 

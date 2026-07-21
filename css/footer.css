@@ -1,11 +1,15 @@
-footer {
-    color: #F4F4FD;
+#footer {
+    color: #f4f4fd;
     background-color: #2E2F42;
 }
 
-footer p {
+#footer a {
+    color: #f4f4fd;
+}
+
+#footer p {
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
