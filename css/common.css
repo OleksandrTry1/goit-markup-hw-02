@@ -1,0 +1,25 @@
+body {
+    font-family: "Roboto";
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    color: #2E2F42;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+}
+
+.logo-span {
+    color: #4D5AE5;
+}
