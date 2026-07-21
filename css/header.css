@@ -3,8 +3,8 @@
     font-family: "Roboto";
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .navigation-address a {
@@ -12,6 +12,15 @@
     font-family: "Roboto";
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-style: normal;
+}
+
+.navigation-nav a:hover, .navigation-nav a:focus {
+    color: #404bbf;
+}
+
+.navigation-address a:hover, .navigation-address a:focus {
+    color: #404bbf;
 }

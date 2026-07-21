@@ -1,13 +1,17 @@
-#footer {
-    color: #f4f4fd;
+.footer {
     background-color: #2E2F42;
+    color: #F4F4FD;
 }
 
-#footer a {
-    color: #f4f4fd;
+.footer a {
+    color: inherit;
 }
 
-#footer p {
+.footer-logo-span {
+    color: #4D5AE5;
+}
+
+.footer p {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
