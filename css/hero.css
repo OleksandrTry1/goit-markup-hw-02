@@ -1,4 +1,4 @@
-#hero {
+.hero {
     background-color: #2E2F42;
 }
 .hero-text {
@@ -21,4 +21,5 @@
 
 .hero-button:hover, .hero-button:focus {
     background-color: #404bbf;
+    cursor: pointer;
 }
