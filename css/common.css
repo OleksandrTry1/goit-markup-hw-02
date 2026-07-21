@@ -1,6 +1,7 @@
 body {
     color: #2E2F42;
-    font-family: "Roboto";
+    background-color: #fff;
+    font-family: "Roboto", sans-serif;
 }
 
 ul, ol {
